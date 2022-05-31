@@ -1,2 +1,9 @@
 # mocha-rooster
-Test driving Mocha
+
+Test run of MochaJS
+
+## Technologies used
+
+JS
+Mocha
+CI/CD
