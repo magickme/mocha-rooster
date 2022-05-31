@@ -4,6 +4,6 @@ Test run of MochaJS
 
 ## Technologies used
 
-JS
+Node.js
 Mocha
 CI/CD

@@ -1,0 +1,22 @@
+{
+    "name": "mocha-rooster",
+    "version": "1.0.0",
+    "description": "Test run of MochaJS",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/magickme/mocha-rooster.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/magickme/mocha-rooster/issues"
+    },
+    "homepage": "https://github.com/magickme/mocha-rooster#readme",
+    "devDependencies": {
+        "mocha": "^10.0.0"
+    }
+}
